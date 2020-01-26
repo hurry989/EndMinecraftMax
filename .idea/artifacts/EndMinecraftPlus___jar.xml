@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EndMinecraftPlus++:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EndMinecraftPlus___jar</output-path>
+    <root id="archive" name="EndMinecraftPlus++.jar">
+      <element id="module-output" name="EndMinecraftPlus++" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../MCProtocolLib-master/target/mcprotocollib-1.15.1-1-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Libs/packetlib-1.5-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../PacketLib-master/target/packetlib-1.5-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Libs/mcprotocollib-1.15.1-1-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/javassist/javassist/3.26.0-GA/javassist-3.26.0-GA.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

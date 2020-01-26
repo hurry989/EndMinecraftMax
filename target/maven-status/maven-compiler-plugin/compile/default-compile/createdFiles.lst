@@ -1,0 +1,16 @@
+net\emtips\endminecraftplusplus\utils\mainUtils.class
+net\emtips\endminecraftplusplus\ATTACK\IAttack.class
+net\emtips\endminecraftplusplus\Protocol\MCForgelnject.class
+net\emtips\endminecraftplusplus\ATTACK\MotdAttack.class
+net\emtips\endminecraftplusplus\Protocol\MCForgeUtils.class
+net\emtips\endminecraftplusplus\main\Menu.class
+net\emtips\endminecraftplusplus\ATTACK\DistributedBotAttack$1.class
+net\emtips\endminecraftplusplus\Protocol\MCForge$1.class
+net\emtips\endminecraftplusplus\main\main.class
+net\emtips\endminecraftplusplus\other\ASMInject.class
+net\emtips\endminecraftplusplus\Protocol\UnknowPacket.class
+net\emtips\endminecraftplusplus\Protocol\MCForge.class
+net\emtips\endminecraftplusplus\proxy\ProxyPool.class
+net\emtips\endminecraftplusplus\Protocol\ACP.class
+net\emtips\endminecraftplusplus\Protocol\MCForgeHandShake.class
+net\emtips\endminecraftplusplus\ATTACK\DistributedBotAttack.class

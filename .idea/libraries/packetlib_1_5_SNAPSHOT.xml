@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="packetlib-1.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PacketLib-master/target/packetlib-1.5-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../PacketLib-master/target/packetlib-1.5-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../PacketLib-master/target/packetlib-1.5-SNAPSHOT-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mcauthlib-1.2-SNAPSHOT-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../MCAuthLib-master/target/mcauthlib-1.2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../MCAuthLib-master/target/mcauthlib-1.2-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../MCAuthLib-master/target/mcauthlib-1.2-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

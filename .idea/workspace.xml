@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0767776-329f-4b29-a4b7-f99041af23ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xms1024m -Xmx2048m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WWZ3bSTzmRd9OvdHTNyGhe7JcR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/MCAuthLib-master/target/mcauthlib-1.2-SNAPSHOT.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.10082493" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0767776-329f-4b29-a4b7-f99041af23ab" name="Default Changelist" comment="" />
+      <created>1579267112805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579267112805</updated>
+      <workItem from="1579267114731" duration="1269000" />
+      <workItem from="1579268470863" duration="5364000" />
+      <workItem from="1579273870624" duration="46000" />
+      <workItem from="1579273923522" duration="159000" />
+      <workItem from="1579274090348" duration="63000" />
+      <workItem from="1579274161021" duration="118000" />
+      <workItem from="1579274283588" duration="699000" />
+      <workItem from="1579352002596" duration="648000" />
+      <workItem from="1579779516095" duration="1255000" />
+      <workItem from="1579869139830" duration="19000" />
+      <workItem from="1579869212283" duration="746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" width="1107" height="682" key="#Project_Structure" timestamp="1579268923781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" width="1107" height="682" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579268923781" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1579270382465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579270382465" />
+    <state x="690" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579272493177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579272493177" />
+    <state x="739" y="379" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579272519732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="379" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579272519732" />
+    <state x="859" y="235" key="DetectedRootsChooserDialog" timestamp="1579268918165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="859" y="235" key="DetectedRootsChooserDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579268918165" />
+    <state x="779" y="261" key="FileChooserDialogImpl" timestamp="1579273402037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579273402037" />
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1579276305852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579276305852" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1579276305848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579276305848" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1579276305844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579276305844" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1579276305850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579276305850" />
+    <state x="142" y="93" key="SettingsEditor" timestamp="1579274275989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="142" y="93" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579274275989" />
+    <state x="804" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579268876071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="804" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579268876071" />
+  </component>
+</project>
